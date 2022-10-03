@@ -12,15 +12,19 @@ git commit -m "I love CES 110"
 
 ## Me and my dog Icy
 
-![This is an image](https://github.com/mu-xiaofan/CSE-110/blob/main/WechatIMG4.jpeg)
-![This is an image](https://github.com/mu-xiaofan/CSE-110/blob/main/WechatIMG1.jpeg)
-![This is an image](https://github.com/mu-xiaofan/CSE-110/blob/main/WechatIMG3.jpeg)
-For an image of me and him, click [here](WechatIMG2.jpeg)
+![This is an image](WechatIMG4.jpeg)
+
+![This is an image](WechatIMG1.jpeg)
+
+![This is an image](WechatIMG3.jpeg)
+
+For an image of me and him, please click [here](WechatIMG2.jpeg)
 
 Here are the family members of my apartment:
 
 - Me
 - Icy
+
 My daily routine will just be:
 
 1. Go to school
