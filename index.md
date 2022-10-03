@@ -16,6 +16,7 @@ git commit -m "I love CES 110"
 ![This is an image](https://github.com/mu-xiaofan/CSE-110/blob/main/WechatIMG1.jpeg)
 ![This is an image](https://github.com/mu-xiaofan/CSE-110/blob/main/WechatIMG3.jpeg)
 For an image of me and him, click [here](WechatIMG2.jpeg)
+
 Here are the family members of my apartment:
 
 - Me
