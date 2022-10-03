@@ -12,11 +12,9 @@ git commit -m "I love CES 110"
 
 ## Me and my dog Icy
 
-![This is an image](WechatIMG4.jpeg)
+![This is an image](WechatIMG3.png)
 
-![This is an image](WechatIMG1.jpeg)
-
-![This is an image](WechatIMG3.jpeg)
+![This is an image](WechatIMG1.png)
 
 For an image of me and him, please click [here](WechatIMG2.jpeg)
 
